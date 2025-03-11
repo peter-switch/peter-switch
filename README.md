@@ -35,7 +35,12 @@ Si quieres compartir consejos, reírte de mis errores de novato o simplemente ch
 
 📧 info@electricoo.com
 
-¡Nos vemos entre líneas de código! 😁👨‍💻
+Nos vemos entre líneas de código 😁👨‍💻
+
+¡Un abrazote!
+
+Peter.
+
 
 
 
