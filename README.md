@@ -1,6 +1,6 @@
 # ¡Hola, mundo! 👋
 
-¡Éste es mi rinconcito en GitHub! 🚀
+¡Este es mi rinconcito en GitHub! 🚀
 
 ## 🧑‍💻 Sobre mí
 
