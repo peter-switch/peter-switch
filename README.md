@@ -28,7 +28,7 @@ Aquí puedes encontrar algunos de mis proyectos personales, en los que intento a
   
 - Y sobre todo... ¡seguir divirtiéndome aprendiendo! 🚀
   
-- Algún día, poder teletrabajar desde una playa paradisíaca 🌴💻
+- Algún día, poder **teletrabajar** desde una playa paradisíaca 🌴💻
 
 ## 📬 Contáctame
 Si quieres compartir consejos, reírte de mis errores de novato o simplemente charlar, aquí me tienes:
