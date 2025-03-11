@@ -2,7 +2,7 @@
 
 ¡Este es mi rinconcito en GitHub! 🚀
 
-## 🧑‍💻 Sobre mí
+## 🙅‍♂️💾 Sobre mí
 
 Soy un valiente aventurero del código, un auténtico "novato pero con ganas" en el vasto universo de la programación. Actualmente, estoy explorando los misterios de:
 
@@ -10,7 +10,7 @@ Soy un valiente aventurero del código, un auténtico "novato pero con ganas" en
   
 - ☕ **JavaScript** (a veces me confundo más que un `callback` dentro de otro `callback`)
   
-- 🎨 **CSS** (aún descubriendo por qué mis `div` se escapan a otra dimensión)
+- 🎨 **CSS** (aún descubriendo por qué mis `div` se escapan a otra dimensión)- 🎨 **CSS** (aún descubriendo por qué mis `div` se escapan a otra dimensión)
   
 - 📜 **HTML** (esto ya lo tengo más controlado... creo 🤔)
 
