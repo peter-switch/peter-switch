@@ -1,4 +1,3 @@
-![Readme.md]()
 # ¡Hola, mundo! 👋
 
 ¡Este es mi rinconcito en GitHub! 🚀
